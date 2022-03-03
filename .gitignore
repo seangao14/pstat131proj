@@ -1,3 +1,4 @@
 data/
 csvdata/
 .ipynb_checkpoints/
+.DS_Store/
